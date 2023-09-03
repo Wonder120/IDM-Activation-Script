@@ -4,14 +4,15 @@ _________________________________
 ###   Activation:
 _________________________________
 
- - This script applies the registry lock method to activate the Internet Download Manager (IDM).
+ - 该脚本使用注册表锁定方式激活IDM。
 
- - This method requires Internet at the time of activation.
+ - 此方法需要在激活时连接互联网。
 
- - IDM updates can be installed directly without having to activate again.
+ - IDM更新可以直接安装，而无需再次激活。
 
- - After the activation, if in some cases, the IDM starts to show an activation nag screen, 
-   then just run the activation option again.
+ - 激活后，如果在某些情况下，IDM开始显示激活提示屏幕， 然后再次运行激活选项。
+
+
 
 _________________________________
 
